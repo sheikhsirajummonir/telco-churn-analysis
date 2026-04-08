@@ -14,6 +14,6 @@ Month-to-month Fiber Optic customers in their first year account for
 
 ## Status
 - [x] Data cleaning and validation
-- [x] SQL analysis (16 queries)
+- [x] SQL analysis (15 queries)
 - [ ] Power BI dashboard (in progress)
 - [ ] Published dashboard link
