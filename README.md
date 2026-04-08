@@ -15,12 +15,12 @@ Month-to-month Fiber Optic customers in their first year account for
 ## Status
 - [x] Data cleaning and validation
 - [x] SQL analysis (15 queries)
-- [ ] Power BI dashboard (in progress)
-- [ ] Published dashboard link
+- [x] Power BI dashboard
+- [x] Published dashboard link
 
 ## Files
 - [SQL Analysis](sql/telco_churn_analysis.sql)
-- [Power BI Dashboard](#) — link coming soon
+- [Power BI Dashboard](PowerBI/Telco Churn Analysis.pbix)
 
 
 ## Power BI Dashboard
