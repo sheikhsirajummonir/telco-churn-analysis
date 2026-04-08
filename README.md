@@ -31,9 +31,9 @@ Month-to-month Fiber Optic customers in their first year account for
   <summary>Click to view Dashboard Screenshots</summary>
   
   ### Customer & Churn Overview
-  ![Customer & Churn Overview](Dashboard Screenshots/Customer & Churn Overview.png)
+  ![Overview](Dashboard%20Screenshots/Customer%20%26%20Churn%20Overview.png)
   
   ### Revenue & Payment Analysis
-  ![Revenue & Payment Analysis](Dashboard Screenshots/Revenue & Payment Analysis.png)
-  
+  ![Revenue](Dashboard%20Screenshots/Revenue%20%26%20Payment%20Analysis.png)
+ 
 </details>
