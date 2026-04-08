@@ -21,3 +21,19 @@ Month-to-month Fiber Optic customers in their first year account for
 ## Files
 - [SQL Analysis](sql/telco_churn_analysis.sql)
 - [Power BI Dashboard](#) — link coming soon
+
+
+## Power BI Dashboard
+> [!TIP]
+> View the live interactive dashboard [here](LINK_COMING_SOON).
+
+<details>
+  <summary>Click to view Dashboard Screenshots</summary>
+  
+  ### Executive Summary
+  ![Executive Dashboard](path/to/image1.png)
+  
+  ### Customer Demographics
+  ![Demographics Dashboard](path/to/image2.png)
+  
+</details>
