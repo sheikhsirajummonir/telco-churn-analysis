@@ -25,7 +25,7 @@ Month-to-month Fiber Optic customers in their first year account for
 
 ## Power BI Dashboard
 > [!TIP]
-> View the live interactive dashboard [here](LINK_COMING_SOON).
+> View the live interactive dashboard [here](PowerBI/Telco%20Churn%20Analysis.pbix)
 
 <details>
   <summary>Click to view Dashboard Screenshots</summary>
